@@ -74,7 +74,7 @@ a{
 }
 
 .open .btn-open{
-  color: beige;
+  color: white;
   background: rgb(0, 0, 0);
   border-radius: 7px;
   padding: 7px;
@@ -124,3 +124,118 @@ content>section:nth-of-type(1){
 h3{
   font-size: 45px;
 }
+
+.fifth-img{
+  margin-left: auto;
+}
+
+.fifth{
+  background: rgb(247, 242, 233);
+  width: 100%;
+  margin-top: 80px;
+  display: fixed;
+  padding-bottom: 100px;
+}
+
+.fifth h4{
+  margin-left: 15%;
+  margin-bottom: 1.5%;
+  font-size: 60px;
+  padding-top: 70px;
+}
+
+.fifth p{
+  margin-left: 15%;
+  margin-bottom: 60px;
+}
+
+.fifth img{
+  margin-left: 10%;
+  margin-bottom: 100px;
+}
+
+.fifth h2{
+  margin-left: 35%;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.fifth .btn{
+  color: white;
+  background:rgb(252, 89, 116);
+  border-radius: 20px;
+  padding: 8px;
+  display: block;
+  width: 220px;
+  margin: auto;
+}
+
+/* 마지막 */
+
+footer{
+  /* background-color: black; */
+  background-color: rgb(99, 99, 99);
+}
+
+
+.f-nav{
+  display: flex;
+  height: 350px;
+  padding-top: 30px;
+}
+
+.f-nav ul{
+  margin-left: 130px;
+  margin-right: 80px;
+}
+
+.f-nav li{
+  padding: 10%;
+}
+
+.f-nav ul li{
+  font-size: 13px;
+  color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.f-nav ul p{
+  color:rgb(252, 89, 116);
+  font-size: 18px;
+}
+
+.f-nav ul .kr{
+  color: white;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.f-nav ul h1{
+  color:rgb(252, 89, 116);
+}
+
+hr{
+  margin: auto;
+}
+
+.last{
+  margin-top: 50px;
+  padding-bottom: 70px;
+  color: white;
+}
+
+.last a{
+  color: white;
+  background:rgb(252, 89, 116);
+  border-radius: 18px;
+  padding: 7px;
+}
+
+.last pre{
+  margin-left: 80px;
+}
+
+.last a{
+  margin-left: 91%;
+}
+
