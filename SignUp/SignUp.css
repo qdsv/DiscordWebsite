@@ -75,36 +75,36 @@ section{
 
 .email_input_check{
   font-size: 12px;
-  margin-left: 80%;
+  text-align: right;
   margin-top: 3px;
 }
 
 .id_input_check{
   font-size: 12px;
-  margin-left: 80%;
+  text-align: right;
   margin-top: 3px;
 }
 
 .pw_input_check{
   font-size: 12px;
-  margin-left: 80%;
+  text-align: right;
   margin-top: 3px;
 }
 
 .year_input_check{
   font-size: 12px;
-  margin-left: 80%;
+  text-align: right;
   margin-top: 3px;
 }
 
 .mon_input_check{
   font-size: 12px;
-  margin-left: 70%;
+  text-align: right;
   margin-top: 3px;
 }
 
 .day_input_check{
   font-size: 12px;
-  margin-left: 70%;
+  text-align: right;
   margin-top: 3px;
 }
