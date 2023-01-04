@@ -78,3 +78,13 @@ form .inform{
 .right p{
   color:rgb(179, 179, 179);
 }
+
+.email_input_check{
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.pw_input_check{
+  font-size: 12px;
+  margin-top: 3px;
+}
